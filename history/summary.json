@@ -40,7 +40,7 @@
     "url": "https://caspar.de",
     "icon": "https://icons.duckduckgo.com/ip3/caspar.de.ico",
     "slug": "caspar-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 594,
     "timeMonth": 599,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   },
   {
     "name": "Caspar com",
