@@ -4,19 +4,19 @@
     "url": "https://www.marvincaspar.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.marvincaspar.de.ico",
     "slug": "marvin-caspar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 490,
-    "timeWeek": 310,
-    "timeMonth": 300,
+    "timeDay": 411,
+    "timeWeek": 304,
+    "timeMonth": 299,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 12
     }
   },
   {
