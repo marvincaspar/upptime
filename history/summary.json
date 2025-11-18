@@ -4,36 +4,40 @@
     "url": "https://www.marvincaspar.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.marvincaspar.de.ico",
     "slug": "marvin-caspar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 262,
-    "timeWeek": 304,
-    "timeMonth": 286,
+    "timeDay": 240,
+    "timeWeek": 294,
+    "timeMonth": 284,
     "timeYear": 261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Caspar Dev",
     "url": "https://caspar.dev",
     "icon": "https://icons.duckduckgo.com/ip3/caspar.dev.ico",
     "slug": "caspar-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 166,
-    "timeWeek": 234,
-    "timeMonth": 234,
+    "timeDay": 170,
+    "timeWeek": 226,
+    "timeMonth": 232,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Caspar de",
@@ -73,7 +77,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.62%",
     "time": 225,
-    "timeDay": 190,
+    "timeDay": 260,
     "timeWeek": 215,
     "timeMonth": 275,
     "timeYear": 228,
