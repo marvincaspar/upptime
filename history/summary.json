@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 258,
-    "timeDay": 304,
-    "timeWeek": 276,
-    "timeMonth": 283,
-    "timeYear": 263,
+    "timeDay": 228,
+    "timeWeek": 278,
+    "timeMonth": 282,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2025-11-18": 97
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 216,
-    "timeDay": 167,
-    "timeWeek": 195,
-    "timeMonth": 221,
-    "timeYear": 223,
+    "timeDay": 101,
+    "timeWeek": 188,
+    "timeMonth": 219,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2025-11-18": 97
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 621,
-    "timeDay": 756,
-    "timeWeek": 646,
-    "timeMonth": 648,
+    "timeDay": 494,
+    "timeWeek": 644,
+    "timeMonth": 641,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2025-06-14": 16,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/caspar.com.ico",
     "slug": "caspar-com",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
     "time": 226,
-    "timeDay": 52,
-    "timeWeek": 234,
+    "timeDay": 229,
+    "timeWeek": 253,
     "timeMonth": 262,
-    "timeYear": 231,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-09-06": 39,
       "2025-08-17": 25,
